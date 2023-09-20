@@ -1,0 +1,148 @@
+body
+{
+    background-image: url("../img/bg.png");
+    font-family: Recoleta;
+    font-size:20px;
+}
+nav
+{
+    background-color:#FFFDD0;
+    color:#c1503e;
+    
+}
+nav li a{color:#c1503e !important;font-weight: bold;font-size: 120%; }
+nav li a:hover
+{
+    background-color:#be5e15bc;
+    color:white !important;
+    transition-delay:0.1s;
+    
+}
+
+
+.mainContent
+{       background-color: #EDE0B2;
+ 
+}
+
+.mainContent img
+{
+    width: 100%;
+   
+  
+}
+.header h2
+{
+    text-align: center;
+    font-weight: bold;
+    background-color: #D5C4A7;
+    padding:10px;
+   
+}
+
+.description
+{
+    text-align: justify;
+  
+}
+
+#loginForm
+{
+    padding-left: 50px;
+}
+ h1
+{
+   text-align: center;
+}
+.item h2,h3
+{
+    text-align: center;
+
+}
+.item
+{
+   
+    border-bottom-style: double;
+    border-top: none;
+    border-left:none;
+    border-color: #b87818;
+
+}
+
+
+aside{  background-color: white;}
+
+
+
+.itemName
+{
+    background-color: #b87818;
+}
+.btnReg
+{
+    background-color: #be5e15bc;
+    border:none !important;
+    font-weight: bold;
+    font-size:20px;
+}
+.btnReg:hover{
+     background-color: #ab5a1b
+}
+
+hr
+{
+    border: 5px solid #804315;
+    border-radius: 5px;
+}
+
+button a
+{
+    color:white;
+    text-decoration: none;
+}
+
+.address
+{
+    background-color:#804315;
+    color:white;
+    text-align: center;
+}
+.element{
+
+    border-width: 3px;
+    border-style:double ;
+    border-color:#b87818;
+    padding:5px;
+}
+
+.bottomContent
+{
+    background-color:black;
+    text-align: center;
+    color:white;
+  
+}
+
+.logo{width:5%;}
+.ossz{font-size: 50px;
+font-weight: bold;
+}
+.galeryImg{ object-fit: cover;}
+
+.linkMain a
+{
+    text-decoration: none;
+    color:black;
+}
+.linkMain a:hover{color:orange;  transition-delay:0.1s;}
+.linkMain img{width: 296px;}
+
+.boldSpan{font-weight: bold;}
+.menuItem
+{  border-width: 3px;
+    border-style:double ;
+    border-color:#b87818;
+    padding:5px;
+
+}
+#adat{list-style-type:none}
